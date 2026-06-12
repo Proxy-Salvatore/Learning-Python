@@ -28,3 +28,18 @@ Before initializing this public repository, I successfully engineered and audite
 * **Milestone:** Officially launched this GitHub repository to track open-source contributions and portfolio growth.
 * **Brain Wake-Up Drill:** Conducted a logic refresh after a short break. I successfully audited a broken conditional script by identifying a missing colon and diagnosing a rogue assignment operator (`=`) masquerading as a comparison operator (`==`).
 * **Next Objective:** Attack Lesson 5 (Lists and Dictionaries) to master complex structural data collections.
+
+
+
+
+## 🎓 Course Completed: Kaggle Intro to Programming
+**Date:** June 11, 2026  
+**Status:** 100% Completed ✅
+
+### 🚀 Final Milestone: Lesson 5 - Intro to Lists
+Successfully mastered how Python handles data collections and wrapped up the final module of the starter curriculum.
+
+#### 🧠 Key Breakthroughs & Troubleshooting:
+* **The Parenthesis Trap:** Learned to spot where mathematical operations (like dividing by the length) belong when nesting functions inside `sum()`. Moving the operations *outside* the inner parenthesis prevents container errors.
+* **Negative Indexing:** Replaced long, confusing `len()` calculations (like `len(num_users) - 1 - yrs_ago`) with Python's clean negative indexing shortcut (`-1 - yrs_ago`) to safely track data backward in time.
+* **Debugging Mindset:** Practiced isolating a massive formula into individual pieces to hunt down hardcoded logic errors and tiny punctuation typos.
